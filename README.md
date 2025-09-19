@@ -18,10 +18,11 @@ A comprehensive marketing analytics dashboard built with Next.js that provides r
 - Comprehensive campaign data table with sorting capabilities
 
 ### 👥 **Demographic Insights**
-- Audience demographic analysis
-- Age group and gender performance metrics
-- Device performance tracking
-- Target audience insights
+- Gender-based performance analytics (Male vs Female)
+- Total clicks, spend, and revenue breakdown by gender
+- Real-time demographic metrics with visual card components
+- Performance insights showing gender distribution percentages
+- Comprehensive demographic data processing from campaign breakdowns
 
 ### 📅 **Weekly Performance**
 - Week-over-week performance tracking
