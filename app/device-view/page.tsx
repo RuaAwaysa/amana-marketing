@@ -81,7 +81,7 @@ export default function DeviceView() {
     (sum, d) => sum + d.conversions,
     0
   );
-  const totalSpend = devicePerformanceData.reduce((sum, d) => sum + d.spend, 0);
+  // const totalSpend = devicePerformanceData.reduce((sum, d) => sum + d.spend, 0);
   const totalRevenue = devicePerformanceData.reduce(
     (sum, d) => sum + d.revenue,
     0
